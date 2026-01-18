@@ -18,11 +18,11 @@ It helps users record daily expenses, manage budgets, and analyze spending categ
 python expense_tracker.py
 ```
 
-##Technologies used
+## Technologies used
 - Python
-- List
-- Dictionary
+- Lists
+- Dictionaries
 - Loops and conditional Statements
 
-##Author
+## Author
 Shubham Kumbhar
